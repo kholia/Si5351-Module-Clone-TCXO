@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
+  (lib (name "Adafruit Si5351A")(type "KiCad")(uri "${KIPRJMOD}/Adafruit Si5351A.pretty")(options "")(descr ""))
+)

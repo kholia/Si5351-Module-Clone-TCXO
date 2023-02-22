@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Adafruit Si5351A-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Adafruit Si5351A-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "EtherkitKicadLibrary")(type "Legacy")(uri "${KIPRJMOD}/libraries/EtherkitKicadLibrary/EtherkitKicadLibrary.lib")(options "")(descr ""))
+)
