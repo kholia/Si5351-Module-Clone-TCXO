@@ -39,7 +39,11 @@ Note: International buyers can buy from DigiKey or Mouser.
 
 #### Supported TCXO Modules
 
-- [DEFAULT] KDS Daishinku 1XTW26000MAA
+- [DEFAULT] KDS Daishinku 1XTW26000MAA (26 MHz)
+
+- YXC Crystal Oscillators OW2EL89CENUXK7YLC-25M
+
+- huaxindianzi 3T025000VX - 25 MHz
 
 - Jauch Quartz O 25,0-JT32C-A-K-3,3-LF
 
